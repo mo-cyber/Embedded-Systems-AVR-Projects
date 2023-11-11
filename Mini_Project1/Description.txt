@@ -1,4 +1,0 @@
-Vehicle Control System:
-
-- The system is developed in C to interface with the user to control some features 
-  (Engine State, AC, Vehicle Speed, Room Temperature, Engine Temperature Controller state, and Engine Temperature)
