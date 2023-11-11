@@ -1,0 +1,3 @@
+Stop-Watch and Alarm 
+- Developing a system that controls the stop-watch time and displays it on 7-segment with an alarm feature
+- Drivers: GPIO, Timer, External Interrupts, and 7-Segment - Microcontroller: ATmega32
